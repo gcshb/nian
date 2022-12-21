@@ -13,12 +13,12 @@
 		height:100%;
 		}
 body{
-background: url(http://cdn.u1.huluxia.com/g4/M03/FA/79/rBAAdmOIG7OAOIW3AAFu6YMTqxM897.jpg) center center;
+background: url(https://user-images.githubusercontent.com/119094998/208670220-5248b1f2-d3fe-4bac-8fd8-6a947f49a9eb.jpg) center center;
 	background-size:cover;
 }
 
 }
-    background:ur1(http://cdn.u1.huluxia.com/g4/M03/FA/79/rBAAdmOIG7OAOIW3AAFu6YMTqxM897.jpg);
+    background:ur1(https://user-images.githubusercontent.com/119094998/208670220-5248b1f2-d3fe-4bac-8fd8-6a947f49a9eb.jpg);
 }
 .container{
     width: 40%;
